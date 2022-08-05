@@ -1,0 +1,23 @@
+* {border: 1px solid black;
+}
+
+body {
+  margin: 0%
+}
+
+#main {
+  height: 20em;
+}
+
+#nav-bar {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  background-color: whitesmoke;
+  width: fit-content
+}
+
+#footer {
+ padding: 1em;
+}
